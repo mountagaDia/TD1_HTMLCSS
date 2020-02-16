@@ -1,0 +1,39 @@
+div{
+  border: 1px solid black;
+}
+
+#mainContainer{
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}
+
+.bloc-Gauche{
+  width: 50%;
+  background-color: green;
+}
+
+.bloc-Droit{
+  width: 50%;
+  height: 500px;
+  background-color: purple;
+}
+
+.bloc-Fixe{
+  width: 90%;
+  height: 500px;
+  margin: 0 2px;
+  background-color: green;
+}
+
+.bloc-Haut{
+  margin: 0 0 10px;
+  height: 50px;
+  background-color: red;
+}
+
+.bloc-Pied{
+  margin: 5px 0 0;
+   height: 80px;
+   background-color: yellow;
+}
