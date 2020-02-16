@@ -1,0 +1,95 @@
+div{
+  border: 1px solid black;
+}
+
+#mainContainer, #mainContainer1, #mainContainer2, #mainContainer3{
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}
+
+.bloc-Gauche1{
+  width: 50%;
+  margin:  0 0 0px 10px;
+  background-color: red;
+}
+.bloc-Droit12{
+  width: 50%;
+  margin:  0 1px 0px 0px;
+  background-color: red;
+}
+.bloc-Gauche2{
+  width: 50%;
+  margin:  0 0 0px 10px;
+  background-color: green;
+}
+.bloc-Gauche23{
+  width: 50%;
+  margin:  0 0 0px 10px;
+  background-color: red;
+}
+
+.bloc-Droit1{
+  width: 50%;
+  height: 100px;
+  margin:  0px 0px 0px 1px;
+  background-color: yellow;
+}
+.bloc-Droit2{
+  width: 50%;
+  height: 100px;
+  margin:  0 0px 0px 0px;
+  background-color: green;
+}
+.bloc-Droit24{
+  width: 50%;
+  height: 100px;
+  margin:  0 0px 0px 0px;
+  background-color: red;
+}
+.bloc-Droit11{
+  width: 50%;
+  height: 100px;
+  margin:  0 0px 0px 1px;
+  background-color: brown;
+}
+.bloc-DroitD{
+	width: 50%;
+	margin:  0 10px 0px 0px;
+	background-color: yellow;
+}
+.bloc-DroitD7{
+	width: 50%;
+	margin:  0 0px 0px 1px;
+	background-color: yellow;
+}
+.bloc-DroitD1{
+	width: 50%;
+	margin:  0 10px 0px 0px;
+	background-color: brown;
+}
+
+.bloc-Fixe{
+  width: 100%;
+  height: 350px;
+  margin: 10px 10px 10px 10px;
+  background-color: yellow;
+}
+
+.bloc-Haut{
+  margin: 0 0 ;
+  height: 50px;
+  background-color: green 	;
+}
+
+.bloc-Menu{
+  margin:  0 0 5px;
+  height: 30px;
+  background-color: purple;
+}
+
+.bloc-Pied{
+  margin: 5px 0 0;
+   height: 80px;
+   background-color: green;
+}
