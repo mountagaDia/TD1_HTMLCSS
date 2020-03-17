@@ -1,0 +1,33 @@
+#myNavbar{
+
+    background-color: #000000;
+    color: white;
+
+}
+
+
+
+.header {
+  /*  image de grde */
+  background-image: url("head.jpg");
+
+  min-height: 380px;
+
+  /*  image de grde */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+}
+
+.footer {
+
+   margin-top: 20px; 
+   background-color: #000000;
+   color: white;
+
+}
+
+
+
